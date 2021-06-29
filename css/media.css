@@ -1,0 +1,317 @@
+@media(min-width:0px) and (max-width:1900px){
+    .device-beauty-content {
+        min-height: 75vh;
+    }
+    .testimonial-section {
+        min-height: 41vh;
+    }
+    .contact-us {
+        min-height: 53vh;
+    }
+}
+
+
+@media(min-width:0px) and (max-width:1399px){
+    .header-content {
+        min-height: 78vh;
+    }
+    .like{
+        min-height: 13vh;
+    }
+    .contact-us{
+        min-height: 90vh;
+    }
+}
+
+
+@media(min-width:0px) and (max-width:1199px){
+    .header-content {
+        min-height: 70vh;
+    }
+    .prod-content {
+        padding: 25px 19px;
+    }
+    .pord-overview {
+        padding-top: 50px;
+    }
+    .device-beauty-content {
+        min-height: 65vh;
+    }
+    .py-5 {
+        padding-top: 2rem!important;
+        padding-bottom: 2rem!important;
+    }
+    .like-btn-v{
+        margin-right: 15px;
+    }
+    .contact-us {
+        min-height: 90vh;
+    }
+
+}
+@media(min-width:0px) and (max-width:991px){
+    .navbar-nav {
+        text-align: center;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        display: inline-block;
+    }
+    .navbar-light .navbar-nav .nav-item {
+        padding: 0;
+        margin: 8px 0px;
+    }
+    .header-content h6 {
+        font-size: 15px;
+   }
+    .header-content h1{
+        font-size: 36px;
+    }
+    .header-content p {
+        font-size: 16px;
+    }
+    .btn-d-now {
+        width: 165px;
+        letter-spacing: 1px;
+    }
+    .btn-v-features {
+        width: 165px;
+        letter-spacing: 1px;
+    }
+    .prod-content {
+        padding: 4px 5px;
+    }
+    .prod-content h3 {
+        font-size: 26px;
+    }
+    .like ul li{
+        margin-right: 8px;
+    }
+    .like-btn-v{
+        width: 135px;
+        letter-spacing: 1px;
+        padding: 10px;
+        border-radius: 11px;
+        font-size: 12px;
+        margin: 0;
+        margin-bottom: 11px;
+    }
+    .like-btn-d{
+        width: 135px;
+        letter-spacing: 1px;
+        padding: 10px;
+        border-radius: 11px;
+        font-size: 12px;
+    }
+    .order-button{
+        width: 130px;
+    }
+    .pricing p {
+        line-height: 24px;
+        font-size: 15px;
+        padding: 5px 0px;
+    }
+    .contact-us {
+        min-height: 70vh;
+    }
+    .contact-form {
+        padding: 20px;
+    }
+}
+@media(min-width:0px) and (max-width:767px){
+    .header-content {
+        min-height: 70vh;
+        padding: 24px;
+    }
+    .header-content h1{
+        font-size: 29px;
+        font-weight: 600;
+        line-height: 45px;
+        margin-bottom: 24px;
+    }
+    .header-content h6 {
+        font-size: 13px;
+       letter-spacing: 2px;
+       margin-bottom: 6px;
+   }
+   .header-content p {
+    font-size: 15px;
+    line-height: 26px;
+    margin-bottom: 41px;
+    }
+    .header-content ul {
+    text-align: left;
+    display: block;
+    }
+    .btn-d-now {
+        width: 150px;
+        letter-spacing: 1px;
+        padding: 10px;
+        border-radius: 9px;
+        font-size: 12px;
+        margin-bottom: 15px;
+    }
+    .btn-v-features {
+        width: 150px;
+        letter-spacing: 1px;
+        padding: 10px;
+        border-radius: 9px;
+        font-size: 12px;
+        margin-bottom: 11px;
+    }
+    .phone{
+        left: 69%;
+    }
+    .phone img {
+        width:80%;
+    }
+    .prod-content{
+        width: 46%;
+        margin: auto;
+    }
+    .device-beauty-image {
+        margin-bottom: 36px;
+    }
+    .header-two h1 {
+        font-size: 32px;
+    }
+    .header-two h5 {
+        font-size: 13px;
+    }
+    .device-customize {
+        padding: 33px 0px;
+    }
+    .owl-dots {
+        padding-top: 24px;
+    }
+    .like{
+        text-align: center;
+    }
+    .like ul{
+        display: block;
+    }
+    .like h1 {
+        font-size: 23px;
+        margin: 20px 0px;
+    }
+    .table-content {
+        width: 45%;
+        margin: auto;
+    }
+    .py-5 {
+        padding-top: 0rem!important;
+        padding-bottom: 0rem!important;
+    }
+    .testimonial-section {
+        text-align: center;
+    }
+    .testimonial p {
+        margin-bottom: 14px;
+    }
+    .client {
+        margin: auto;
+     }
+     .owl-carousel .owl-item img {
+        width: 60px;
+        height: 60px;
+    }
+    .client-des h4 {
+        font-size: 14px;
+    }
+    .pricing-table {
+        padding: 41px 0px;
+    }
+    .header-one h2 {
+        font-size: 34px;
+    }
+    .table-content {
+        padding: 30px;
+    }
+    .contact-us {
+        min-height: 130vh;
+        padding-top: 25px;
+    }
+    .contact-form {
+        padding: 42px;
+        width: 50%;
+        top: 55%;
+    }
+
+}
+@media(min-width:0px) and (max-width:575px){
+    .phone{
+        left: 60%;
+    }
+    .phone img {
+        width: 78%;
+    }
+    .contact-us {
+        min-height: 130vh;
+    }
+    .contact-form {
+        padding: 26px;
+        width: 65%;
+        top: 55%;
+    }
+    .prod-content{
+        width: auto;
+        margin: 20px 0px;
+    }
+    .table-content {
+        width: auto;
+        padding: 15px 20px;
+    }
+    .pricing {
+        padding: 40px;
+        margin: 10px 50px;
+    }
+
+
+}
+@media(min-width:0px) and (max-width:320px){
+    .btn-d-now {
+        width: 135px;
+        letter-spacing: 1px;
+        padding: 10px;
+        border-radius: 11px;
+        font-size: 12px;
+        margin-bottom: 11px;
+    }
+    .btn-v-features {
+        width: 135px;
+        letter-spacing: 1px;
+        padding: 10px;
+        border-radius: 11px;
+        font-size: 12px;
+        margin-bottom: 11px;
+    }
+    .phone {
+        left: 55%;
+    }
+    .phone img {
+        width:95%;
+    }
+    .owl-carousel .owl-item img {
+        width: 50px;
+        height: 50px;
+    }
+    .like ul{
+        display: block;
+    }
+    .pricing {
+        padding: 0;
+        margin: 0;
+    }
+    .pricing-table {
+        padding: 35px 0px;
+    }
+    .contact-us {
+        min-height: 122vh;
+        padding-top: 20px;
+    }
+    .contact-form {
+        padding: 13px;
+        width: 83%;
+        top: 57%;
+        left: 50%;
+    }
+}
